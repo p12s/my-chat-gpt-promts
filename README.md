@@ -1,5 +1,4 @@
 # My personal chatGPT prompts
-**Feel free to create PR with new useful prompts!**  
   
 ![how-Midjourney-see-chatGPT ](https://github.com/p12s/my-chat-gpt-promts/blob/main/how-mid-see-ch.png?raw=true)    
   
@@ -69,4 +68,4 @@ Explain how cations differ from anions, as if I were 10 years old
     
 ...  
    
-15. Ask him how to order coffee 🙂
+15. Ask him how to order a cup of coffee 🙂
