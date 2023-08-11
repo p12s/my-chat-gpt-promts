@@ -1,4 +1,4 @@
-# My personal chatGPT prompts
+# My personal chatGPT (GigaChat) prompts
   
 ![how-Midjourney-see-chatGPT ](https://github.com/p12s/my-chat-gpt-promts/blob/main/how-mid-see-ch.png?raw=true)    
   
